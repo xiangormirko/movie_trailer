@@ -1,5 +1,5 @@
 # movie_trailer
-movie trailer website project completed by Xiang Zhao 
+movie trailer website project completed by Xiang Zhao Mirko
 05/20/2015
 
 GENERAL DESCRIPTION
